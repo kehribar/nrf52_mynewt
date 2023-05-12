@@ -1,0 +1,16 @@
+[submodule "firmware/repos/apache-mynewt-core"]
+	path = firmware/repos/apache-mynewt-core
+	url = git@github.com:apache/mynewt-core.git
+	tag = mynewt_1_10_0_tag
+[submodule "firmware/repos/apache-mynewt-mcumgr"]
+	path = firmware/repos/apache-mynewt-mcumgr
+	url = git@github.com:apache/mynewt-mcumgr.git
+	tag = mynewt_1_10_0_tag
+[submodule "firmware/repos/apache-mynewt-nimble"]
+	path = firmware/repos/apache-mynewt-nimble
+	url = git@github.com:apache/mynewt-nimble.git
+	tag = mynewt_1_10_0_tag
+[submodule "firmware/repos/mcuboot"]
+	path = firmware/repos/mcuboot
+	url = git@github.com:mcu-tools/mcuboot.git
+	tag = v1.10.0
